@@ -1,0 +1,18 @@
+.smart-substitutions-banner {
+  position: absolute;
+  bottom: 12px;
+  right: 16px;
+  z-index: 20;
+  max-width: calc(100% - 32px);
+  padding: 10px;
+  border: 1px solid var(--background-modifier-border);
+  border-radius: var(--radius-m);
+  background: var(--background-primary);
+  color: var(--text-normal);
+  box-shadow: var(--shadow-s);
+  font-size: var(--font-ui-small);
+  display: flex;
+  gap: 6px;
+  align-items: center;
+  flex-wrap: wrap;
+}

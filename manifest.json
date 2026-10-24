@@ -1,0 +1,9 @@
+{
+  "id": "smart-substitutions",
+  "name": "Smart Substitutions",
+  "version": "0.1.0",
+  "minAppVersion": "1.6.0",
+  "description": "Suggest and explicitly approve local shorthand rules for frequently used words.",
+  "author": "PaCoalt",
+  "isDesktopOnly": false
+}
